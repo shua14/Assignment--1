@@ -36,10 +36,16 @@ body {
     box-sizing: border-box;
   }
   .header {
-    padding: 80px;
+    padding: 100px;
     text-align: center;
     background: rgb(8, 156, 241);
     color: white;
+    display: inline-block;
+    width:1000px;
+    height:250px;
+    border-radius: 150%;
+    margin: 150px;
+    float: center;
   }
   .header h1 {
     font-size: 40px;
