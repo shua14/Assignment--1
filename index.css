@@ -23,6 +23,65 @@ body {
   }
   
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: rgb(8, 156, 241);
     color: white;
   }
+
+
+
+  
+
+
+  * {
+    box-sizing: border-box;
+  }
+  .header {
+    padding: 80px;
+    text-align: center;
+    background: rgb(8, 156, 241);
+    color: white;
+  }
+  .header h1 {
+    font-size: 40px;
+  }
+
+
+
+  .row {  
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .side {
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+  }
+  .main {   
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+  }
+  .fakeimg {
+    background-color: #aaa;
+    width: 100%;
+    padding: 20px;
+  }  
+  .footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+  }
+
