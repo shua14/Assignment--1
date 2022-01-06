@@ -27,11 +27,6 @@ body {
     color: white;
   }
 
-
-
-  
-
-
   * {
     box-sizing: border-box;
   }
@@ -49,8 +44,6 @@ body {
   .header h1 {
     font-size: 40px;
   }
-
-
 
   .row {  
     display: flex;
