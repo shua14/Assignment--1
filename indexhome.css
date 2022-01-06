@@ -14,7 +14,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
   
   .topnav a:hover {
@@ -36,13 +36,13 @@ body {
     background: rgb(8, 156, 241);
     color: white;
     display: inline-block;
-    width:1000px;
+    width:1300px;
     height:250px;
     border-radius: 150%;
     margin: 150px;
   }
   .header h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
 
   .row {  
@@ -50,7 +50,7 @@ body {
     flex-wrap: wrap;
   }
 
-
+<body style="background-color:powderblue;">
 
 
 
