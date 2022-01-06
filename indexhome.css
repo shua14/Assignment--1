@@ -31,15 +31,11 @@ body {
     box-sizing: border-box;
   }
   .header {
-    padding: 100px;
+    padding: 80px;
     text-align: center;
     background: rgb(8, 156, 241);
     color: white;
-    display: inline-block;
-    width:1300px;
-    height:250px;
-    border-radius: 150%;
-    margin: 150px;
+    border-radius: 50%;
   }
   .header h1 {
     font-size: 30px;
@@ -49,16 +45,6 @@ body {
     display: flex;
     flex-wrap: wrap;
   }
-
-
-
-
-
-
-
-
-
-
 
 
   .side {
