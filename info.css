@@ -9,6 +9,13 @@ h1 {
   font-size: 50px;
 }
 
+h2{
+    font-size: 40px;
+}
+
+p{
+    font-size: 22px;
+}
 .topnav {
     overflow: hidden;
     background-color: #333;
@@ -36,13 +43,23 @@ h1 {
 div.example-box{
     padding-top: 10px;
     padding-bottom: 20px;
-    margin-left: 100px;
-    margin-right: 100px;
     border-radius: 10px;
     background-color: rgb(224, 224, 224);
+}
+
+div.black-box{
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+div.margin{
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .example-image{
     border-radius: 10px;
   box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.6), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
+
