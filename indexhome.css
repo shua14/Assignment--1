@@ -14,7 +14,7 @@ body {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
   }
   
   .topnav a:hover {
@@ -27,47 +27,24 @@ body {
     color: white;
   }
 
-
-
-  
-
-
   * {
     box-sizing: border-box;
   }
   .header {
-    padding: 100px;
+    padding: 80px;
     text-align: center;
     background: rgb(8, 156, 241);
     color: white;
-    display: inline-block;
-    width:1000px;
-    height:250px;
-    border-radius: 150%;
-    margin: 150px;
-    float: center;
+    border-radius: 50%;
   }
   .header h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
-
-
 
   .row {  
     display: flex;
     flex-wrap: wrap;
   }
-
-
-
-
-
-
-
-
-
-
-
 
 
   .side {
